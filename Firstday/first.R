@@ -53,4 +53,11 @@ Age = c(42,38,26)
 )
 print(BMI)
 
-
+value = 4
+if(value > 4)
+{
+    print("koke")
+} else if(value < 4){
+   print("jokowi pasti kerja")
+} else if(value == 4){
+   print("work")}
