@@ -1,7 +1,7 @@
 # Task01---- 
-##Fibonacci function----
+##Fibonacci function------
 
-###defining the function----
+###defining the function-----
 fibonacci <- function(n) {
   if (n < 0) {
     stop("n must be positive")

@@ -1,5 +1,5 @@
 #TASK02----
-##Prime Numbers----
+##Prime Numbers-----
 
 ###User Input----
 n <- readline("Enter an integer: ")
